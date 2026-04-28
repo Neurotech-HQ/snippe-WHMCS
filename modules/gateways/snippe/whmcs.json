@@ -1,0 +1,31 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "snippe",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": "Snippe Payment Gateway",
+        "tagline": "Accept mobile money, card, and QR payments in Tanzania via Snippe hosted checkout.",
+        "long": "Snippe lets you collect TZS payments from M-Pesa, Airtel Money, Mixx by Yas, Halotel, Visa, Mastercard, and dynamic QR through a single hosted checkout URL. This WHMCS module creates a Snippe checkout session per invoice and redirects the customer to a mobile-optimised payment page; paid invoices are reconciled automatically via signed webhooks.",
+        "features": [
+            "Hosted checkout with mobile money, card, and QR",
+            "Automatic reconciliation via signed webhooks",
+            "TZS settlement to your Snippe balance",
+            "No PCI scope — Snippe hosts the payment page"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https://snippe.sh",
+        "docs_url": "https://snippe.sh/docs/2026-01-25"
+    },
+    "authors": [
+        {
+            "name": "Neurotech HQ",
+            "homepage": "https://neurotech.africa"
+        }
+    ]
+}
