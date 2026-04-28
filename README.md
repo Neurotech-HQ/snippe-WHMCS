@@ -230,6 +230,7 @@ See `LICENSE`. The module is provided as-is; production use is at your own risk 
 
 ## Support
 
+- **WhatsApp** — [+255 757 294 146](https://wa.me/255757294146)
 - **Snippe API issues** — Snippe support / [docs](https://snippe.sh/docs/2026-01-25)
 - **WHMCS module issues** — open an issue on this repo
 - **WHMCS platform questions** — [WHMCS Developer Docs](https://developers.whmcs.com/payment-gateways/)
